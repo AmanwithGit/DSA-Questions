@@ -47,6 +47,7 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanwithGit/DSA-Questions/tree/master/0002-add-two-numbers) |
+| [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -59,5 +60,18 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0097-interleaving-string) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
