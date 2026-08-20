@@ -60,18 +60,26 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AmanwithGit/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0097-interleaving-string) |
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AmanwithGit/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AmanwithGit/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AmanwithGit/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AmanwithGit/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
