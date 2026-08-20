@@ -37,3 +37,18 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman1122/)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AmanwithGit/DSA-Questions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AmanwithGit/DSA-Questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AmanwithGit/DSA-Questions/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
