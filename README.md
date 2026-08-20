@@ -10,7 +10,6 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-ðŸš§ **Just started â€” solutions added regularly**
 
 </div>
 
@@ -35,7 +34,6 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanwithGit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman1122/)
 
 </div>
