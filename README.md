@@ -47,6 +47,7 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanwithGit/DSA-Questions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/AmanwithGit/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
