@@ -48,6 +48,7 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanwithGit/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AmanwithGit/DSA-Questions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/AmanwithGit/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
@@ -58,6 +59,7 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmanwithGit/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AmanwithGit/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/AmanwithGit/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0097-interleaving-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0097-interleaving-string) |
 ## Dynamic Programming
 |  |
@@ -102,4 +104,8 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmanwithGit/DSA-Questions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/AmanwithGit/DSA-Questions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
