@@ -63,6 +63,7 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 | [0012-integer-to-roman](https://github.com/AmanwithGit/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/AmanwithGit/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanwithGit/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0097-interleaving-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0097-interleaving-string) |
 ## Dynamic Programming
 |  |
@@ -97,6 +98,7 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 | [0005-longest-palindromic-substring](https://github.com/AmanwithGit/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AmanwithGit/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanwithGit/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Manacher
 |  |
 | ------- |
@@ -119,4 +121,20 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanwithGit/DSA-Questions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuthâ€“Morrisâ€“Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyerâ€“Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
