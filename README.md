@@ -60,6 +60,7 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 | [0005-longest-palindromic-substring](https://github.com/AmanwithGit/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AmanwithGit/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/AmanwithGit/DSA-Questions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/AmanwithGit/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0097-interleaving-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0097-interleaving-string) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmanwithGit/DSA-Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AmanwithGit/DSA-Questions/tree/master/0014-longest-common-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AmanwithGit/DSA-Questions/tree/master/0012-integer-to-roman) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AmanwithGit/DSA-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
