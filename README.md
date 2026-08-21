@@ -55,11 +55,13 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmanwithGit/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AmanwithGit/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0097-interleaving-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0097-interleaving-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmanwithGit/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AmanwithGit/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AmanwithGit/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AmanwithGit/DSA-Questions/tree/master/0097-interleaving-string) |
@@ -82,4 +84,12 @@ A collection of my Data Structures & Algorithms solutions, organized by topic â€
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AmanwithGit/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmanwithGit/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmanwithGit/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
